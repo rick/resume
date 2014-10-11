@@ -1,20 +1,20 @@
 # Rick Bradley
 
-_5001 Indiana Ave, Nashville, TN 37209 // 615.746.7829 // rick@rickbradley.com_
+_Nashville, TN // 615.746.7829 // rick@rickbradley.com_
 
 ## Experience
 
 #### [GitHub, Inc.](https://github.com/)
 
-**Developer _(6/2012 - present)_** - Some text
+**Developer _(6/2012 - present)_** - Hired to "perform a rescue mission ... on github.com". Invented tools and techniques to allow for radical re-engineering of GitHub systems. Part of a 4-person team which safely replaced the entire permissioning and organizational back-end of the core product. Contributed to projects across the organization.
 
 #### [OGC](http://www.ogtastic.com/)
 
-**Founder, Developer** _(1/2008 - 6/2012)_ - Some text
+**Founder, Developer** _(1/2008 - 6/2012)_ - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress.
 
 #### [Centerstone](https://www.centerstone.org/)
 
-**Project Manager _(5/2005 - 8/2007)_** -
+**Project Manager _(5/2005 - 8/2007)_** - Recruited world-class talent, introduced Agile and BDD techniques, guided deployment strategy. Advised executives, worked directly with developers and end-users on design and development of a large research-enabled clinical record system for use across a multi-state organization.
 
 #### Base Systems
 
