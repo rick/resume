@@ -38,4 +38,6 @@ _Nashville, TN // 615.746.7829 // rick@rickbradley.com_
 
 ##### [Vanderbilt University]() - **B.S., Computer Science & Mathematics** _('94)_
 
+----
+
 _[This document lives at https://github.com/rick/resume/ ]_
