@@ -1,6 +1,6 @@
 # Rick Bradley
 
-_Nashville, TN // 615.746.7829 // rick@rickbradley.com_
+_[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middot; Nashville, TN &middot; 615.746.7829_
 
 ## Experience
 
@@ -37,6 +37,11 @@ _Nashville, TN // 615.746.7829 // rick@rickbradley.com_
 ##### [SUNY Stony Brook]() - **M.S., Computer Science, focus on algorithms**, _('96)_
 
 ##### [Vanderbilt University]() - **B.S., Computer Science & Mathematics** _('94)_
+
+## Miscellany
+
+Spoke at 1st Rails Conf, Rails Conf (others), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group, Nashville Linux Users Group (multiple).  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős number of 3.
+
 
 ----
 
