@@ -49,4 +49,4 @@ Spoke at 1st Rails Conf, Rails Conf (others), RubyConf, Ruby Hoedown (multiple),
 
 ----
 
-_This document lives at [rick.github.io/resume](https://rick.github.io/resume/)_
+_This document lives at [rick.github.io/resume](http://rick.github.io/resume/)_
