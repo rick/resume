@@ -42,7 +42,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ## Education
 
-##### [SUNY Stony Brook](https://www.cs.stonybrook.edu/) - **M.S., Computer Science, focus on algorithms**, _('96)_
+##### [SUNY Stony Brook](https://www.cs.stonybrook.edu/) - **M.S., Computer Science, focus on algorithms** _('96)_
 
 ##### [Vanderbilt University](http://www.vanderbilt.edu/) - **B.S., Computer Science & Mathematics** _('94)_
 
