@@ -50,7 +50,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ## Miscellany
 
-Spoke at 1st Rails Conf, Rails Conf (others), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group, Nashville Linux Users Group (multiple).  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős number of 3.
+Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group, Nashville Linux Users Group (multiple).  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős number of 3.
 
 ## Fit
 
