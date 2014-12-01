@@ -12,7 +12,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### [GitHub, Inc.](https://github.com/)
 
-> **Developer _(6/2012 - present)_** - Hired to "perform a rescue mission ... on github.com". Invented tools and techniques to allow for radical re-engineering of GitHub systems. Part of a 4-person team which safely replaced the entire permissioning and organizational back-end of the core product. Contributed to projects across the organization.
+> **Developer _(6/2012 - 12/2014)_** - Hired to "perform a rescue mission ... on github.com". Invented tools and techniques to allow for radical re-engineering of GitHub systems. Part of a 4-person team which safely replaced the entire permissioning and organizational back-end of the core product. Contributed to projects across the organization.
 
 ### [OGC](http://www.ogtastic.com/)
 
