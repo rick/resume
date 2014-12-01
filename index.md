@@ -52,6 +52,21 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 Spoke at 1st Rails Conf, Rails Conf (others), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group, Nashville Linux Users Group (multiple).  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős number of 3.
 
+## Fit
+
+I am a senior developer who believes it is important for technical leaders to "keep their hands dirty". I am suited to solving technical challenges which require high-level problem solving and coordination.
+
+My primary career focus is not people management but I am comfortable working on teams whose members have a wide range of experience. I am typically involved in product decisions, though am comfortable speaking to product concerns as a technical representative.
+
+In numerous past roles I have contributed significantly to finding and realizing opportunities for organizational change and improvement at increasingly large scale. To be effective I need to be in a position where my abilities to make **both** technical and social change can be exercised.
+
+Ask yourself, "Is my organization compassionate?" If the answer is "no" or the question seems unimportant we may not share a common vision about the fundamentals of how businesses should work.
+
+I am used to working in an asynchronous and distributed environment with peers who are self-starters.  I also enjoy in-person and remote pair programming, and mentoring junior engineers.  I am happy living in Nashville, TN, USA, so offers outside Nashville should be for remote positions at a company which has experience with remote senior contributors.
+
+My compensation requirements vary based upon the company, the [deeper meaning behind their work](https://www.youtube.com/watch?v=wdzHgN7_Hs8), the people I work with, the problems to be solved, etc.
+
+Realistic offers include competitive salary, equity, comprehensive benefits, liberal vacation policies and conference travel opportunities, and support for the costs of equipment, data, and office space.
 
 ----
 
