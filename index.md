@@ -12,7 +12,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### [Puppet Labs](https://puppetlabs.com/)
 
-> **Principle Software Engineer _(2/2015 - present)_** - Working from the Quality Engineering team to streamline company-wide CI and development processes/tooling, and to tighten feedback loops affecting developers across the Engineering organization.
+> **Principal Software Engineer _(2/2015 - present)_** - Working from the Quality Engineering team to streamline company-wide CI and development processes/tooling, and to tighten feedback loops affecting developers across the Engineering organization.
 
 ### [GitHub, Inc.](https://github.com/)
 
