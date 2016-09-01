@@ -10,9 +10,11 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ## Experience
 
-### [Puppet Labs](https://puppetlabs.com/)
+### ~~[Puppet Labs](https://puppetlabs.com/)~~ Puppet, Inc. (https://puppet.com/)
 
-> **Principal Software Engineer _(2/2015 - present)_** - Working from the Quality Engineering team to streamline company-wide CI and development processes/tooling, and to tighten feedback loops affecting developers across the Engineering organization.
+> **Principal Improvement Engineer _(7/2016 - present)_** - Working with people (most in Engineering), using whatever technologies we can bring to bear, to find long feedback loops and shitty processes that cause slow or unreliable delivery of our software to our customers. Building a culture of measurement and continuous improvement / refinement so that we naturally get fast and reliable at shipping useful systems to our customers.
+
+> **Principal Software Engineer _(2/2015 - 6/2016)_** - Working from the Quality Engineering team to streamline company-wide CI and development processes/tooling, and to tighten feedback loops affecting developers across the Engineering organization.
 
 ### [GitHub, Inc.](https://github.com/)
 
