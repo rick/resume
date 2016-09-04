@@ -20,7 +20,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### [OGC](http://www.ogtastic.com/)
 
-> **Founder, Developer** _(1/2008 - 6/2012)_ - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress.
+> **Founder, Developer** _(1/2008 - 6/2012)_ - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress. Acquired by GitHub in 2012.
 
 ### [Centerstone](https://www.centerstone.org/)
 
