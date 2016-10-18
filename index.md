@@ -49,7 +49,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [Hardee's](http://www.hardees.com/)
 
-> **Not Hardee's Material _(5/1988-7/1998)_** - Actually did some pretty amazing things with the deep fryer. Co-organizer of the first annual "see how long you can stay in the deep freezer" / "what's the tallest { burger, soft serve cone } you can make" / "who can eat the oldest thing under the lamps?" intramural olympics.
+> **Not Hardee's Material _(5/1988-7/1988?)_** - Actually did some pretty amazing things with the deep fryer. Co-organizer of the first annual "see how long you can stay in the deep freezer" / "what's the tallest { burger, soft serve cone } you can make" / "who can eat the oldest thing under the lamps?" intramural olympics.
 
 
 <br/>
