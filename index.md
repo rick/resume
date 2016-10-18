@@ -38,6 +38,12 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 > **Developer _(1/1997 - 11/1998)_** - Worked with geniuses as one of 100 employees of the most successful hedge fund on the planet. Learned finance, designed and developed powerful and reliable large systems.
 
+### ...
+
+### [Hardee's](http://www.hardees.com/)
+
+> **Not Hardee's Material _(5/1988-7/1998)_** - Actually did some pretty amazing things with the deep fryer. Co-organizer of the first annual "see how long you can stay in the deep freezer" / "what's the tallest { burger, soft serve cone } you can make" / "who can eat the oldest thing under the lamps?" intramural olympics.
+
 <br/>
 
 ## Education
