@@ -1,5 +1,6 @@
 ---
 title: Resume of Rick Bradley
+layout: resume
 ---
 
 # Rick Bradley
@@ -8,45 +9,52 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 <br/>
 
-## Experience
+### Experience
 
-### [GitHub, Inc.](https://github.com/)
+##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
+
+> **Principal Improvement Engineer _(8/2016 - present)_** - Working with people (most in Engineering), using whatever technologies we can bring to bear, to find long feedback loops and shitty processes that cause slow or unreliable delivery of our software to our customers. Building a culture of measurement and continuous improvement / refinement so that we naturally get fast and reliable at shipping useful systems to our customers.
+
+> **Principal Software Engineer _(2/2015 - 8/2016)_** - Working from the Quality Engineering team to streamline company-wide CI and development processes/tooling, and to tighten feedback loops affecting developers across the Engineering organization.
+
+##### [GitHub, Inc.](https://github.com/)
 
 > **Developer _(6/2012 - 12/2014)_** - Hired to "perform a rescue mission ... on github.com". Invented tools and techniques to allow for radical re-engineering of GitHub systems. Part of a 4-person team which safely replaced the entire permissioning and organizational back-end of the core product. Contributed to projects across the organization.
 
-### [OGC](http://www.ogtastic.com/)
+##### [OGC](http://www.ogtastic.com/)
 
-> **Founder, Developer** _(1/2008 - 6/2012)_ - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress.
+> **Founder, Developer** _(1/2008 - 6/2012)_ - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress. Acquired by GitHub in 2012.
 
-### [Centerstone](https://www.centerstone.org/)
+##### [Centerstone](https://www.centerstone.org/)
 
 > **Project Manager _(5/2005 - 8/2007)_** - Recruited world-class talent, introduced Agile and BDD techniques, guided deployment strategy. Advised executives, worked directly with developers and end-users on design and development of a large research-enabled clinical record system for use across a multi-state organization.
 
-### Base Systems
+##### Base Systems
 
 > **Lead Developer _(9/2002 - 3/2005)_** - Redesigned core software (medical transcription industry), introduced repeatability and stability, revamped support methodologies, developed new applications (VOIP platform, document management, and workflow systems) which changed the direction and measurably improved the long-term viability of the organization.
 
-### Eastcore
+#### Eastcore
 
 > **Founder, Developer _(11/1998 - 9/2002)_** - Developed legal industry online tools, moved into design and implementation of custom content management systems. Advised third-party integrators of our platform. Built first open online system for Georgia statute and case law information. Paid out investors and retained a profit.
 
-### Vested Software
+##### Vested Software
 
 > **Founder, Developer _(4/1998 - 10/1999)_** - Designed and built web-based and "n-tier" systems for clients in the NY financial services industry. Responsible for bidding and estimation, project planning. Always profitable.
 
-### [Renaissance Technologies Corporation](http://en.wikipedia.org/wiki/Renaissance_Technologies)
+##### [Renaissance Technologies Corporation](http://en.wikipedia.org/wiki/Renaissance_Technologies)
 
 > **Developer _(1/1997 - 11/1998)_** - Worked with geniuses as one of 100 employees of the most successful hedge fund on the planet. Learned finance, designed and developed powerful and reliable large systems.
 
-### ...
+#### ...
 
 ### [Hardee's](http://www.hardees.com/)
 
 > **Not Hardee's Material _(5/1988-7/1998)_** - Actually did some pretty amazing things with the deep fryer. Co-organizer of the first annual "see how long you can stay in the deep freezer" / "what's the tallest { burger, soft serve cone } you can make" / "who can eat the oldest thing under the lamps?" intramural olympics.
 
+
 <br/>
 
-## Education
+### Education
 
 ##### [SUNY Stony Brook](https://www.cs.stonybrook.edu/) - **M.S., Computer Science, focus on algorithms** _('96)_
 
@@ -54,11 +62,11 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 <br/>
 
-## Miscellany
+##### Miscellany
 
-Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group, Nashville Linux Users Group (multiple).  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős number of 3.
+Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group (multiple), Nashville Linux Users Group (multiple), various in-house talks for companies by invite.  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős number of 3.
 
-## Fit
+##### Fit
 
 I am a senior developer who believes it is important for technical leaders to "keep their hands dirty". I am suited to solving technical challenges which require high-level problem solving and coordination.
 
