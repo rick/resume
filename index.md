@@ -13,7 +13,10 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
-> **Principal Improvement Engineer _(8/2016 - present)_** - Working with people (most in Engineering), using whatever technologies we can bring to bear, to find long feedback loops and shitty processes that cause slow or unreliable delivery of our software to our customers. Building a culture of measurement and continuous improvement / refinement so that we naturally get fast and reliable at shipping useful systems to our customers.
+
+> **Engineering Advisor _(11/2016 - present)_** - "Product owner" for the Engineering production line. Using them metrics, being that lead on our delivery process(es), our infrastructure, tooling, technologies, ... and responsible for selecting the appropriate stange of lambic to go with a free-range [kubernetes](http://share.jssjr.net/slack-imgs-t1LJHD0y97.jpg) appetizer.
+
+> **Principal Improvement Engineer _(7/2016 - 11/2016)_** - Working with people (most in Engineering), using whatever technologies we can bring to bear, to find long feedback loops and shitty processes that cause slow or unreliable delivery of our software to our customers. Building a culture of measurement and continuous improvement / refinement so that we naturally get fast and reliable at shipping useful systems to our customers.
 
 > **Principal Software Engineer _(2/2015 - 8/2016)_** - Working from the Quality Engineering team to streamline company-wide CI and development processes/tooling, and to tighten feedback loops affecting developers across the Engineering organization.
 
