@@ -13,7 +13,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
-> **Principal Software Engineer** -> **Principal Improvement Engineer** -> **Engineer Advisor** __(2/2015-present)__ - Led continual, incremental, iterative refinement of software delivery processes, tools, and techniques across Engineering. Created engineering metrics team, cross-functional optimization group ("The Pit Crew"), led complete overhaul of CI systems delivering production builds on 90+ platforms for all significant products, including focused small-team custom scheduler development to address long-standing capacity issues. Part of a 4-person development team using rapid iterative techniques to take new product from concept to customer-ready, including automated deployment tooling and customer-facing infrastructure, in 3 months.
+> **Principal Software Engineer** -> **Principal Improvement Engineer** -> **Engineer Advisor _(2/2015-present)_** - Led continual, incremental, iterative refinement of software delivery processes, tools, and techniques across Engineering. Created engineering metrics team, cross-functional optimization group ("The Pit Crew"), led complete overhaul of CI systems delivering production builds on 90+ platforms for all significant products, including focused small-team custom scheduler development to address long-standing capacity issues. Part of a 4-person development team using rapid iterative techniques to take new product from concept to customer-ready, including automated deployment tooling and customer-facing infrastructure, in 3 months.
 
 ##### [GitHub, Inc.](https://github.com/)
 
@@ -21,7 +21,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [OGC](http://www.ogtastic.com/)
 
-> **Founder, Developer** _(1/2008 - 6/2012)_ - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress. Acquired by GitHub in 2012.
+> **Founder, Developer _(1/2008 - 6/2012)_** - The "A Team" of Ruby/Rails rescue forces. Purely word-of-mouth referrals. Worked for clients with significant running production systems suffering critical technical and organizational problems. Jump-started projects and teams via both technical and social means, bringing them to self-sustaining forward progress. Acquired by GitHub in 2012.
 
 ##### [Centerstone](https://www.centerstone.org/)
 
