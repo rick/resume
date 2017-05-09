@@ -1,1 +1,1 @@
-See [rick.github.io/resume](http://rick.github.io/resume/).
+See [rick.github.io/resume](https://rick.github.io/resume/).

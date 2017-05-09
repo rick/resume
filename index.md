@@ -87,4 +87,4 @@ Realistic offers include competitive salary, equity, comprehensive benefits, lib
 
 ----
 
-_This document lives at [rick.github.io/resume](http://rick.github.io/resume/)_
+_This document lives at [rick.github.io/resume](https://rick.github.io/resume/)_
