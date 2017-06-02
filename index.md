@@ -13,7 +13,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [NationBuilder](http://nationbuilder.com/)
 
-> **Something Something Software Engineer _(7/2017)** - Something something engineering.
+> **Something Something Software Engineer _(7/2017)_** - Something something engineering.
 
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
