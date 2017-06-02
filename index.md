@@ -11,6 +11,10 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
+##### [NationBuilder](http://nationbuilder.com/)
+
+> **Something Something Software Engineer _(7/2017)** - Something something engineering.
+
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
 > **Principal Software Engineer** -> **Principal Improvement Engineer** -> **Engineer Advisor _(2/2015-6/2017)_** - Led continual, incremental, iterative refinement of software delivery processes, tools, and techniques across Engineering. Created engineering metrics team, cross-functional optimization group ("The Pit Crew"), led complete overhaul of CI systems delivering production builds on 90+ platforms for all significant products, including focused small-team custom scheduler development to address long-standing capacity issues. Part of a 4-person development team using rapid iterative techniques to take new product from concept to customer-ready, including automated deployment tooling and customer-facing infrastructure, in 3 months.
