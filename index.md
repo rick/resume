@@ -5,7 +5,7 @@ layout: resume
 
 # Rick Bradley
 
-_[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middot; Nashville, TN &middot; 615.746.7829_
+_[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middot; Nashville, TN_
 
 <br/>
 
