@@ -13,7 +13,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [NationBuilder](http://nationbuilder.com/)
 
-> **Something Something Software Engineer _(7/2017)_** - Something something engineering.
+> **Senior / Lead Engineer_(7/2017)_** - Guided team development and direction, worked directly with senior and junior engineers, assisted in iteration on product design, worked to revamp reactive / on-call processes, introduced large-scale refactoring risk management tooling, shipped important customer-facing feature improvements and performance enhancements, iteratively improved development / CI / deployment tooling and processes, etc.
 
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
