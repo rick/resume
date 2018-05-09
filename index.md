@@ -13,7 +13,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [NationBuilder](http://nationbuilder.com/)
 
-> **Senior / Lead Engineer _(7/2017 - 2/2018)_** - Guided team development and direction, worked directly with senior and junior engineers, assisted in iteration on product design, worked to revamp reactive / on-call processes, introduced large-scale refactoring risk management tooling, shipped important customer-facing feature improvements and performance enhancements, iteratively improved development / CI / deployment tooling and processes, etc.
+> **Senior / Lead Engineer _(7/2017 - present)_** - Guided team development and direction, worked directly with senior and junior engineers, assisted in iteration on product design, worked to revamp reactive / on-call processes, introduced large-scale refactoring risk management tooling, shipped important customer-facing feature improvements and performance enhancements, iteratively improved development / CI / deployment tooling and processes, etc.
 
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
@@ -21,7 +21,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [GitHub, Inc.](https://github.com/)
 
-> **Developer _(6/2012 - 12/2014)_** - Hired to "perform a rescue mission ... on github.com". Invented tools and techniques to allow for radical re-engineering of GitHub systems. Part of a 4-person team which safely replaced the entire permissioning and organizational back-end of the core product. Contributed to projects across the organization.
+> **Developer _(6/2012 - 12/2014)_** - Hired to "perform a rescue mission ... on github.com". Invented tools and techniques to allow for radical re-engineering of GitHub systems. Part of a 4-person team which safely replaced the entire permissioning and organizational back-end of the core product. Contributed to projects across the organization. Invented [scientist](https://github.com/github/scientist).
 
 ##### [OGC](http://www.ogtastic.com/)
 
