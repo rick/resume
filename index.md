@@ -13,7 +13,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [NationBuilder](http://nationbuilder.com/)
 
-> **Senior / Lead Engineer _(7/2017 - present)_** - Guided team development and direction, worked directly with senior and junior engineers, assisted in iteration on product design, worked to revamp reactive / on-call processes, introduced large-scale refactoring risk management tooling, shipped important customer-facing feature improvements and performance enhancements, iteratively improved development / CI / deployment tooling and processes, etc.
+> **Senior / Lead Engineer _(7/2017 - 7/2018)_** - Guided team development and direction, worked directly with senior and junior engineers, assisted in iteration on product design, worked to revamp reactive / on-call processes, introduced large-scale refactoring risk management tooling, shipped important customer-facing feature improvements and performance enhancements, iteratively improved development / CI / deployment tooling and processes, etc. Lead developer on rapid implementation of full GDPR compliance. 
 
 ##### ~~[Puppet Labs](https://puppetlabs.com/)~~ [Puppet, Inc.](https://puppet.com/)
 
