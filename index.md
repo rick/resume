@@ -9,6 +9,10 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 <br/>
 
+#### Note: Not currently seeking employment
+
+<br/>
+
 ### Experience
 
 ##### [NationBuilder](http://nationbuilder.com/)
