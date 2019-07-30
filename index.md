@@ -7,13 +7,15 @@ layout: resume
 
 _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middot; Nashville, TN_
 
-<br/>
-
-#### Note: Not currently seeking employment
-
-<br/>
-
 ### Experience
+
+##### Independent Consulting
+
+> **Consultant / Contractor _(8/2019 - present)_** - Provide software development, process optimization, team development, and business guidance expertise and effort for clients on an intermittent or ongoing basis.
+
+##### Sabbatical
+
+> **Chief Dad Officer _(7/2018-8/2019)_** - Guided child direction, worked directly with child management and individual child contributors in a flexible and reactive play environment. Assisted with team growth and skill acquisition. Advised founders and stakeholders up to and through Initial Kindergarten Offering. _Note: Maintain an ongoing advisory role with on-call commitments._
 
 ##### [NationBuilder](http://nationbuilder.com/)
 
