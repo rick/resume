@@ -9,9 +9,13 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
+##### [Clickety](https://clickety.app)
+
+**Principal Engineer** _(1/2020 - present)_ - 1 of 2 leads making decisions on the domain, architecture, features, infrastructure, timeline, etc., for a new privacy-focused, personally-enabling product that will either crater shortly or have all the problems of success and scaling. It's a good gig, Bront.
+
 ##### Independent Consulting
 
-> **Consultant / Contractor _(8/2019 - present)_** - Provide software development, process optimization, team development, and business guidance expertise and effort for clients on an intermittent or ongoing basis.
+> **Consultant / Contractor _(8/2019 - 1/2020)_** - Provide software development, process optimization, team development, and business guidance expertise and effort for clients on an intermittent or ongoing basis.
 
 ##### Sabbatical
 
@@ -72,7 +76,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### Miscellany
 
-Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group (multiple), Nashville Linux Users Group (multiple), various in-house talks for companies by invite.  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Pissed next to Bob Pollard behind a pickup truck at 2am. Erdős number of 3.
+Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group (multiple), Nashville Linux Users Group (multiple), various in-house talks for companies by invite.  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Pissed next to Bob Pollard [behind a pickup truck at 2am](real-fucking-resume.md). Erdős number of 3.
 
 ----
 
