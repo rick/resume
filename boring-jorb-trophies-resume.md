@@ -13,9 +13,9 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 **Principal Engineer** _(1/2020 - present)_ - 1 of 2 leads making decisions on the domain, architecture, features, infrastructure, timeline, etc., for a new privacy-focused, personally-enabling product that will either crater shortly or have all the problems of success and scaling. It's a good gig, Bront.
 
-##### Independent Consulting
+##### [L. Ron HODL, Inc.](https://www.lronhodl.com/)
 
-> **Consultant / Contractor _(8/2019 - 1/2020)_** - Provide software development, process optimization, team development, and business guidance expertise and effort for clients on an intermittent or ongoing basis.
+> **Owner / Chief HODLer / Consultant / Contractor _(8/2019 - 1/2020)_** - Provide software development, process optimization, team development, and business guidance expertise and effort for clients on an intermittent or ongoing basis.
 
 ##### Sabbatical
 
