@@ -11,7 +11,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [Clickety](https://clickety.app)
 
-**Principal Engineer** _(1/2020 - present)_ - 1 of 2 leads making decisions on the domain, architecture, features, infrastructure, timeline, etc., for a new privacy-focused, personally-enabling product that will either crater shortly or have all the problems of success and scaling. It's a good gig, Bront.
+**Principal Engineer** _(1/2020 - 6/2021)_ - 1st employee; 1 of 3 engineers; built product from whiteboard specs through to highly scalable production; (buzzword salad: datomic, vault, graphql, apollo/react, oauth, aws cdk, postgres), security-audited / verified google 3rd-party application for restricted scopes, etc. 
 
 ##### [L. Ron HODL, Inc.](https://www.lronhodl.com/)
 
