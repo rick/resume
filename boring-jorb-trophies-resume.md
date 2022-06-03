@@ -9,9 +9,9 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
-##### Independent Consulting and Contracting (6/2021 - now; multiple years over the past two decades)
+##### Independent Consulting
 
-**Consultant** - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
+**Consultant** _(6/2021 - now; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
 
 ##### [Clickety](https://clickety.app)
 
