@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'github-pages', '~> 94'
+gem 'github-pages'
