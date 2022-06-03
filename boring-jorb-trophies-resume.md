@@ -9,13 +9,13 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
+##### Independent Consulting and Contracting (6/2021 - now; multiple years over the past two decades)
+
+**Consultant** - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
+
 ##### [Clickety](https://clickety.app)
 
 **Principal Engineer** _(1/2020 - 6/2021)_ - 1st employee; 1 of 3 engineers; built product from whiteboard specs through to highly scalable production; (buzzword salad: datomic, vault, graphql, apollo/react, oauth, aws cdk, postgres), security-audited / verified google 3rd-party application for restricted scopes, etc. 
-
-##### [L. Ron HODL, Inc.](https://www.lronhodl.com/)
-
-> **Owner / Chief HODLer / Consultant / Contractor _(8/2019 - 1/2020)_** - Provide software development, process optimization, team development, and business guidance expertise and effort for clients on an intermittent or ongoing basis.
 
 ##### Sabbatical
 
