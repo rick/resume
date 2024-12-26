@@ -10,6 +10,8 @@
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––
 - Grid
 - Base Styles
 - Typography
@@ -416,3 +418,37 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+@media print {
+  /* Reduce font sizes */
+  html { font-size: 90%; }
+  h1 { font-size: 2.5rem; }
+  h2 { font-size: 2rem; }
+  h3 { font-size: 1.7rem; }
+  h4 { font-size: 1.4rem; }
+  h5 { font-size: 1.2rem; }
+  h6 { font-size: 1rem; }
+
+  /* Reduce spacing */
+  .container {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Tighten up margins and padding */
+  p, ul, ol {
+    margin-bottom: 0.5rem;
+  }
+
+  /* Remove any page breaks inside elements */
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
+
+  li {
+    page-break-inside: avoid;
+  }
+}
