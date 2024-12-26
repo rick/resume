@@ -422,7 +422,7 @@ there.
 
 @media print {
   /* Reduce font sizes */
-  html { font-size: 90%; }
+  html { font-size: 50%; }
   h1 { font-size: 2.5rem; }
   h2 { font-size: 2rem; }
   h3 { font-size: 1.7rem; }

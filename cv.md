@@ -7,7 +7,7 @@ layout: resume
 
 _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middot; Nashville, TN_
 
-### Experience
+## Experience
 
 - Independent Consulting - **Consultant** _(1998 - now, numerous engagements)_
 - [Clickety](https://clickety.app) - **Principal Engineer** _(1/2020 - 6/2021)_
@@ -22,13 +22,13 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 - Vested Software - **Founder, Developer _(4/1998 - 10/1999)_** (financial services industry)
 - [Renaissance Technologies Corporation](http://en.wikipedia.org/wiki/Renaissance_Technologies) - **Developer _(1/1997 - 11/1998)_** (financial services industry)
 
-### Education
+## Education
 
 ##### [SUNY Stony Brook](https://www.cs.stonybrook.edu/) - **M.S., Computer Science, focus on algorithms** _('96)_
 
 ##### [Vanderbilt University](http://www.vanderbilt.edu/) - **B.S., Computer Science & Mathematics** _('94)_
 
-#### Speaking engagements
+## Speaking engagements
 
 - RailsConf (2006, 2008) - Multiple appearances including inaugural conference
 - RubyConf (2006)
@@ -40,10 +40,10 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 - Nashville Linux Users Group - Multiple presentations (1998 - 2004)
 - Invited in-house talks at companies (multiple)
 
-#### Awards
+## Awards
 
 - Member, 1993 World Finalist ACM programming team
 
-#### Publications
+## Publications
 
  -  ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). (Erdős [number of 3](https://files.oakland.edu/users/grossman/enp/Erdos2.html).)
