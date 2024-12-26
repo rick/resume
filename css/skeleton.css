@@ -448,6 +448,11 @@ there.
     page-break-after: avoid;
   }
 
+  h2 {
+    margin-top: 0.75rem;
+    font-size: 1.5rem;
+  }
+
   li {
     page-break-inside: avoid;
     line-height: 1;
