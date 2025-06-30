@@ -9,13 +9,32 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
+##### [OrderlyWellness](https://www.orderlymeds.com)
+
+**Staff Engineer** _(8/2024 - present)_ - Consulting client "acquihired" our 4-person consultancy to stabilize platforms, hire a globally distributed engineering team, migrate services from 3rd party CRM systems to internal workflow and fulfillment systems, streamline operations, improving customer experience... all while maintaining exponential growth in customers and revenue.
+
 ##### Independent Consulting
 
-**Consultant** _(6/2021 - now; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
+**Consultant** _(6/2021 - 8/2024; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
+
+<details>
+  <summary style="font-size: 0.7em;">Clients of Note</summary>
+<ul>
+  <li><a href="https://github.com/">GitHub</a></li>
+  <li><a href="https://orderlymeds.com/">OrderlyWellness</a></li>
+  <li><a href="https://divorce.com/">Divorce.com</a></li>
+  <li><a href="https://www.simple.org/">Simple(.org)</a></li>
+  <li><a href="https://kipuhealth.com">Kipu Health</a></li>
+  <li><a href="https://www.ourvinyl.tv/">OurVinyl.tv</a></li>
+  <li><a href="https://toro.health/">Toro Health</a></li>
+  <li><a href="https://possip.com/">Possip</a></li>
+</ul>
+</details>
+
 
 ##### [Clickety](https://clickety.app)
 
-**Principal Engineer** _(1/2020 - 6/2021)_ - 1st employee; 1 of 3 engineers; built product from whiteboard specs through to highly scalable production; (buzzword salad: datomic, vault, graphql, apollo/react, oauth, aws cdk, postgres), security-audited / verified google 3rd-party application for restricted scopes, etc. 
+**Principal Engineer** _(1/2020 - 6/2021)_ - 1st employee; 1 of 3 engineers; built product from whiteboard specs through to highly scalable production; (buzzword salad: datomic, vault, graphql, apollo/react, oauth, aws cdk, postgres), security-audited / verified google 3rd-party application for restricted scopes, etc.
 
 ##### Sabbatical
 
