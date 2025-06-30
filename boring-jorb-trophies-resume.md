@@ -18,7 +18,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 **Consultant** _(6/2021 - 8/2024; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
 
 <details>
-  <summary style="font-size: 0.7em;">Clients of Note</summary>
+  <summary>Clients of Note</summary>
 <ul>
   <li><a href="https://github.com/">GitHub</a></li>
   <li><a href="https://orderlymeds.com/">OrderlyWellness</a></li>
@@ -31,6 +31,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 </ul>
 </details>
 
+<br/>
 
 ##### [Clickety](https://clickety.app)
 

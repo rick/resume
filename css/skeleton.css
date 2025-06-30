@@ -381,6 +381,19 @@ hr {
   border-width: 0;
   border-top: 1px solid #E1E1E1; }
 
+/* Details
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+details {
+  margin-left: 3em;
+  margin-bottom: 1rem; }
+
+details summary {
+  cursor: pointer;
+  font-weight: 600; }
+
+details summary:hover {
+  color: #1EAEDB; }
+
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
