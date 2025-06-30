@@ -31,8 +31,6 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 </ul>
 </details>
 
-<br/>
-
 ##### [Clickety](https://clickety.app)
 
 **Principal Engineer** _(1/2020 - 6/2021)_ - 1st employee; 1 of 3 engineers; built product from whiteboard specs through to highly scalable production; (buzzword salad: datomic, vault, graphql, apollo/react, oauth, aws cdk, postgres), security-audited / verified google 3rd-party application for restricted scopes, etc.

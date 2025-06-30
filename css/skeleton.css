@@ -384,14 +384,15 @@ hr {
 /* Details
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 details {
-  margin-left: 3em;
-  margin-bottom: 1rem; }
+  margin-left: 1em;
+}
 
 details summary {
   cursor: pointer;
   font-weight: 600;
   position: relative;
-  padding-left: 1.5em; }
+  padding-left: 1.5em;
+}
 
 details summary::before {
   content: "▶";
@@ -406,7 +407,6 @@ details[open] summary::before {
 
 details summary:hover {
   color: #1EAEDB; }
-
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
