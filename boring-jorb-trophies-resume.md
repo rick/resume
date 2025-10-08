@@ -9,13 +9,9 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
-##### [OrderlyWellness](https://www.orderlymeds.com)
-
-**Staff Engineer** _(8/2024 - present)_ - Consulting client "acquihired" our 4-person consultancy to stabilize platforms, hire a globally distributed engineering team, migrate services from 3rd party CRM systems to internal workflow and fulfillment systems, streamline operations, improving customer experience... all while maintaining exponential growth in customers and revenue.
-
 ##### Independent Consulting
 
-**Consultant** _(6/2021 - 8/2024; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
+**Consultant** _(6/2021 - present; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
 
 <details>
   <summary>Clients of Note</summary>
@@ -30,6 +26,10 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
   <li><a href="https://possip.com/">Possip</a></li>
 </ul>
 </details>
+
+##### [OrderlyWellness](https://www.orderlymeds.com)
+
+**Staff Engineer** _(8/2024 - 8/2025)_ - Consulting client "acquihired" our 4-person consultancy to stabilize platforms, hire a globally distributed engineering team, migrate services from 3rd party CRM systems to internal workflow and fulfillment systems, streamline operations, improving customer experience... all while maintaining exponential growth in customers and revenue.
 
 ##### [Clickety](https://clickety.app)
 
