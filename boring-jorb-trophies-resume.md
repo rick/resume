@@ -92,6 +92,10 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 <br/>
 
+##### Technologies
+
+Relevant technology experience: ruby: ~20 years, ruby on rails: ~20y, postgres ~12y, mysql ~10y, perl ~8y, php ~7y, (ba)sh ~8y, misc: js, go, c, redis, mongo, python, puppet, etc.
+
 ##### Miscellany
 
 Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group (multiple), Nashville Linux Users Group (multiple), various in-house talks for companies by invite.  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős [number of 3](https://files.oakland.edu/users/grossman/enp/Erdos2.html). I've been running the [Nashville Silent Meditation Group](https://www.nashram.org/meditate/) for over a decade.
