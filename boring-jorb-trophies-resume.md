@@ -94,7 +94,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### Technologies
 
-Relevant technology experience: ruby: ~20 years, ruby on rails: ~20y, postgres ~12y, mysql ~10y, perl ~8y, php ~7y, (ba)sh ~8y, misc: js, go, c, redis, mongo, python, puppet, etc.
+Relevant technology experience: ruby: ~20 years, ruby on rails: ~20y, postgres ~12y, mysql ~10y, perl ~8y, php ~7y, (ba)sh ~8y, misc: clojure, js, go, c, redis, mongo, python, puppet, etc.
 
 ##### Miscellany
 
