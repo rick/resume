@@ -109,6 +109,7 @@ Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madis
  - Received transmission of the Könchok Chidü cycle from Repa Dorje Ödzer in the USA
  - Received transmission of Virupa's Palden Lhamo Dudsolma (Mahakali) sadhana from Zuri Rinpoche in Bhutan
  - Received the Palden Lhamo Dudsolma protector empowerment from Repa Dorje Ödzer in Bhutan
+ - Received the Pema Lengpa lineage transmission from Lhalung Sungtrul Rinpoche at Drametse Lhakhang in Bhutan
 
 ----
 
