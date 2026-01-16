@@ -100,16 +100,9 @@ Relevant technology experience: ruby: ~20 years, ruby on rails: ~20y, postgres ~
 
 Spoke at 1st (and later) Rails Conf(s), RubyConf, Ruby Hoedown (multiple), Madison Ruby, JS Channel India (keynote), Nash.rb (multiple), Nashville Java Users Group (multiple), Nashville Linux Users Group (multiple), various in-house talks for companies by invite.  Member, 1993 World Finalist ACM programming team.  Published ["Fabricating Arrays of Strings"](https://www3.cs.stonybrook.edu/~skiena/papers/bradley.ps) ([cite](http://dl.acm.org/citation.cfm?id=267529&dl=ACM&coll=DL&CFID=582898140&CFTOKEN=40112734)). Erdős [number of 3](https://files.oakland.edu/users/grossman/enp/Erdos2.html). I've been running the [Nashville Silent Meditation Group](https://www.nashram.org/meditate/) for over a decade.
 
-##### Vajrayana
+##### Vajrayana 
 
- - Received transmission of the Kunjed Gyalpo root text from Chung Rinpoche in Bhutan
- - Received transmission of the Longchen Nyingthig from Chung Rinpoche at Tarpaling in Bhutan
- - Received transmissions for the Yangti Nakpo terma cycle and practices from Chung Rinpoche in Bhutan
-   - Currently performing the ngöndro for the Yangti Nagpo terma cycle under the supervision of Chung Rinpoche and Repo Dorje Ödzer
- - Received transmission of the Könchok Chidü cycle from Repa Dorje Ödzer in the USA
- - Received transmission of Virupa's Palden Lhamo Dudsolma (Mahakali) sadhana from Zuri Rinpoche in Bhutan
- - Received the Palden Lhamo Dudsolma protector empowerment from Repa Dorje Ödzer in Bhutan
- - Received the Pema Lengpa lineage transmission from Lhalung Sungtrul Rinpoche at Drametse Lhakhang in Bhutan
+ - Transmissions and empowerments: Kunjed Gyalpo, Chöying Dzö, Longchen Nyingthig, Yangti Nakpo, Könchok Chidü, Virupa's Palden Lhamo Dudsolma (Mahakali) sadhana, Palden Lhamo Dudsolma protector empowerment, Pema Lengpa lineage transmission. Transmitters: Chung Tulku Rinpoche, Repa Dorje Ödzer, Zuri Rinpoche, Lhalung Sungtrul Rinpoche.
 
 ----
 
