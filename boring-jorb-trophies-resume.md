@@ -33,6 +33,8 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 </ul>
 </details>
 
+<br/>
+
 **Staff Engineer** _(8/2024 - 8/2025)_ - Consulting client "acquihired" our 4-person consultancy to stabilize platforms, hire a globally distributed engineering team, migrate services from 3rd party CRM systems to internal workflow and fulfillment systems, streamline operations, improving customer experience... all while maintaining exponential growth in customers and revenue.
 
 ##### [Clickety](https://clickety.app)
@@ -71,6 +73,8 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
     <li><b>Vested Software</b> - Founder, Developer (4/1998 - 10/1999): Designed and built web-based and "n-tier" systems for clients in the NY financial services industry. Responsible for bidding and estimation, project planning. Always profitable.</li>
   </ul>
 </details>
+
+<br/>
 
 ##### [Renaissance Technologies Corporation](http://en.wikipedia.org/wiki/Renaissance_Technologies)
 
