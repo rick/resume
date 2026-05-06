@@ -11,7 +11,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### [Workbrew](https://www.workbrew.com)
 
-**Product Engineer** _(~2/2026 - present) - Develop and maintain core software and systems, tools, processes, etc., with a focus on evolving to meet future growth.
+**Product Engineer** _(~2/2026 - present)_ - Develop and maintain core software and systems, tools, processes, etc., with a focus on evolving to meet future growth.
 
 ##### [OrderlyWellness](https://www.orderlymeds.com)
 
