@@ -9,6 +9,12 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ### Experience
 
+##### [Workbrew](https://www.workbrew.com)
+
+**Product Engineer** _(~2/2026 - present) - Develop and maintain core software and systems, tools, processes, etc., with a focus on evolving to meet future growth.
+
+##### [OrderlyWellness](https://www.orderlymeds.com)
+
 ##### Independent Consulting
 
 **Consultant** _(6/2021 - present; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
@@ -26,12 +32,6 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
   <li><a href="https://possip.com/">Possip</a></li>
 </ul>
 </details>
-
-##### [Workbrew](https://www.workbrew.com)
-
-**Product Engineer** _(~2/2026 - present) - Develop and maintain core software and systems, tools, processes, etc., with a focus on evolving to meet future growth.
-
-##### [OrderlyWellness](https://www.orderlymeds.com)
 
 **Staff Engineer** _(8/2024 - 8/2025)_ - Consulting client "acquihired" our 4-person consultancy to stabilize platforms, hire a globally distributed engineering team, migrate services from 3rd party CRM systems to internal workflow and fulfillment systems, streamline operations, improving customer experience... all while maintaining exponential growth in customers and revenue.
 
