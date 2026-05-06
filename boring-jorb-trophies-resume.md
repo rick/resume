@@ -17,7 +17,7 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 ##### Independent Consulting
 
-**Consultant** _(6/2021 - present; multiple years over the past two decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
+**Consultant** _(many years over the past three decades)_ - Systems, project, and team consulting. Customers have significant production applications, forward progress has slowed. My focus is on changing high- and low-level processes, writing and changing systems directly alongside developers, and training in techniques to keep things moving rapidly (and safely) in the future.
 
 <details>
   <summary>Clients of Note</summary>
@@ -63,28 +63,24 @@ _[github.com/rick](https://github.com/rick) &middot; rick@rickbradley.com &middo
 
 > **Project Manager _(5/2005 - 8/2007)_** - Recruited world-class talent, introduced Agile and BDD techniques, guided deployment strategy. Advised executives, worked directly with developers and end-users on design and development of a large research-enabled clinical record system for use across a multi-state organization.
 
-##### Base Systems
-
-> **Lead Developer _(9/2002 - 3/2005)_** - Redesigned core software (medical transcription industry), introduced repeatability and stability, revamped support methodologies, developed new applications (VOIP platform, document management, and workflow systems) which changed the direction and measurably improved the long-term viability of the organization.
-
-#### Eastcore
-
-> **Founder, Developer _(11/1998 - 9/2002)_** - Developed legal industry online tools, moved into design and implementation of custom content management systems. Advised third-party integrators of our platform. Built first open online system for Georgia statute and case law information. Paid out investors and retained a profit.
-
-##### Vested Software
-
-> **Founder, Developer _(4/1998 - 10/1999)_** - Designed and built web-based and "n-tier" systems for clients in the NY financial services industry. Responsible for bidding and estimation, project planning. Always profitable.
+<details>
+  <summary>Small Startups</summary>
+  <ul>
+    <li><b>Base Systems</b> - Lead Developer (9/2002 - 3/2005): Redesigned core software (medical transcription industry), introduced repeatability and stability, revamped support methodologies, developed new applications (VOIP platform, document management, and workflow systems) which changed the direction and measurably improved the long-term viability of the organization.</li>
+    <li><b>Eastcore</b> - Founder, Developer (11/1998 - 9/2002): Developed legal industry online tools, moved into design and implementation of custom content management systems. Advised third-party integrators of our platform. Built first open online system for Georgia statute and case law information. Paid out investors and retained a profit.</li>
+    <li><b>Vested Software</b> - Founder, Developer (4/1998 - 10/1999): Designed and built web-based and "n-tier" systems for clients in the NY financial services industry. Responsible for bidding and estimation, project planning. Always profitable.</li>
+  </ul>
+</details>
 
 ##### [Renaissance Technologies Corporation](http://en.wikipedia.org/wiki/Renaissance_Technologies)
 
 > **Developer _(1/1997 - 11/1998)_** - Worked with geniuses as one of 100 employees of the most successful hedge fund on the planet. Learned finance, designed and developed powerful and reliable large systems.
 
-#### ...
+_..._
 
 ##### [Hardee's](http://www.hardees.com/)
 
 > **Not Hardee's Material _(5/1988-7/1988?)_** - Actually did some pretty amazing things with the deep fryer. Co-organizer of the first annual "see how long you can stay in the deep freezer" / "what's the tallest { burger, soft serve cone } you can make" / "who can eat the oldest thing under the lamps?" intramural olympics.
-
 
 <br/>
 
